@@ -3,7 +3,7 @@
 ## The project 
 
 ### Intro
-Random Survival Forest algorithm applied to predict donors attrition in a non-profit. This is an on-going project.
+Random Survival Forest algorithm (randomForestSRC Library) applied to predict donors attrition in a non-profit. This is an on-going project.
 
 ### Problem
 A non-profit collects and process donations for other non-profits. During 2018 4% of donation were cancelled, the non-profit looks forward to anticipate donors attrition in order to communicate with donors to avoid the cancellation. 
