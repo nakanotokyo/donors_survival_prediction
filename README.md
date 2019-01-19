@@ -34,3 +34,4 @@ The repository is organized as follows:
 *result*:
 - csv files with test dataset output
 
+![process](https://user-images.githubusercontent.com/23097609/51429942-036d2c00-1bf3-11e9-8a4f-04fc99ebf45f.png)
