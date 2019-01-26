@@ -12,7 +12,7 @@ A non-profit collects and process donations for other non-profits. During 2018 4
 
 All the transactions are recoreded in a relational data base and contains data of the donors, donations, approved and rejected donations, payment methods, non-profits that receive the donation and data from google analytics. 
 
-Data is not public but a sample of the dataset will be added soon. 
+Data is not public but a sample of the dataset will be added soon under owner's permission. 
 
 ### Model
 
@@ -29,7 +29,7 @@ The repository is organized as follows:
 - Code to preprocess text to normalize "occupation" feature that is a blank field in the donation form
 
 *model:*
-- R markdown notebook used to train and test the model 
+- R markdown notebook used to train a Random Survival Forest algorithm
 
 *result*:
 - csv files with test dataset output
