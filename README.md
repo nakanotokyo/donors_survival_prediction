@@ -18,6 +18,10 @@ Data is not public but a sample of the dataset will be added soon under owner's 
 
 A Random Survival Forest algorithm is applied to predict survival curve for each donor and an ensamble-mortality score is used to rank donors and select the ones to target with a marketing campaign to avoid donation cancellation. 
 
+### Process
+
+![process2](https://user-images.githubusercontent.com/23097609/51787926-2600c700-2156-11e9-9837-f132c7216271.png)\<img 
+
 ## The repository
 
 The repository is organized as follows:
@@ -33,5 +37,3 @@ The repository is organized as follows:
 
 *result*:
 - csv files with test dataset output
-
-![process](https://user-images.githubusercontent.com/23097609/51429942-036d2c00-1bf3-11e9-8a4f-04fc99ebf45f.png)
